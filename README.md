@@ -1,4 +1,4 @@
-## Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
+<h2>नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h2>
 
 ### I code for FUN in any language including   
 | Python | C++ | JAVA | C |
