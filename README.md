@@ -1,8 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h2>
-
-### I code for FUN in any language including   
-| Python | C++ | JAVA | C |
- | :---: | :---: | :---: | :---: | 
+<h2 align="center">नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h2>
  
 ```javascript
 const AjinkyaTaranekar = {
@@ -19,6 +15,10 @@ const AjinkyaTaranekar = {
     currentProject: "I am working on hand gesture recoginition to control mouse",
 };
 ```
+
+### I code for FUN in any language including   
+| Python | C++ | JAVA | C |
+ | :---: | :---: | :---: | :---: | 
 
 ### I have explored these Technologies & Frameworks: 
 
