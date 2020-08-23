@@ -35,7 +35,7 @@ const AjinkyaTaranekar = {
 
 <td align="center" width="20%">
 <span><b><center>Ionic FrameWork</center></b></span> 
-<img src="https://img.icons8.com/ios-filled/65/000000/ionic.png"/>
+<img src="https://img.icons8.com/ios-filled/60/000000/ionic.png"/>
 </td>
 
 
