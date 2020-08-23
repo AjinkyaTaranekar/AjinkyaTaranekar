@@ -16,20 +16,87 @@ const AjinkyaTaranekar = {
 };
 ```
 
-### I code for FUN in any language including   
-| Python | C++ | JAVA | C |
- | :---: | :---: | :---: | :---: | 
+### I code for FUN in any language including :computer:
 
-### I have explored these Technologies & Frameworks: 
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>React Native</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<td align="center" width="20%">
+<span><b><center>Ionic FrameWork</center></b></span> 
+<img src="https://img.icons8.com/ios-filled/65/000000/ionic.png"/>
+</td>
+
+
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>JAVA</center></b></span> 
+<img src="https://img.icons8.com/dusk/65/000000/java-coffee-cup-logo.png">
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>C</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/65/000000/c-programming.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
+
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img src="https://img.icons8.com/dusk/64/000000/css3.png">
+</td>
+
+</tr>
+
+</tbody>
+</table>
+</br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AjinkyaTaranekar&show_icons=true&theme=radical)
 <!--
