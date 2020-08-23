@@ -103,8 +103,12 @@ const AjinkyaTaranekar = {
 </tbody>
 </table>
 </br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AjinkyaTaranekar" alt="AjinkyaTaranekar" /> </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AjinkyaTaranekar&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AjinkyaTaranekar&theme=tokyonight&show_icons=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaTaranekar&theme=tokyonight&show_icons=true" />
+
 <!--
 **AjinkyaTaranekar/AjinkyaTaranekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -120,4 +124,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devabhixda" alt="AjinkyaTaranekar" /> </p>
