@@ -4,6 +4,21 @@
 | Python | C++ | JAVA | C |
  | :---: | :---: | :---: | :---: | 
  
+```javascript
+const AjinkyaTaranekar = {
+    pronouns: "He" | "Him",
+    code: ["C", "C++", "Python", "Java", "Javascript", "Typescript", "Dart"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Explorer", "Food"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: ["React-Native", "Flutter", "Ionic framework"],
+        backEnd: ["node", "express"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Dialog Flow", "open-cv", "GCP"]
+    },
+    currentProject: "I am working on hand gesture recoginition to control mouse",
+};
+```
 
 ### I have explored these Technologies & Frameworks: 
 
