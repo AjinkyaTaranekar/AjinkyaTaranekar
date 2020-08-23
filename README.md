@@ -1,4 +1,4 @@
-<h2 align="center">नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h2>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h2>
  
 ```javascript
 const AjinkyaTaranekar = {
@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devabhixda" alt="AjinkyaTaranekar" /> </p>
