@@ -1,5 +1,11 @@
-<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h2>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h1>
  
+ 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AjinkyaTaranekar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-taranekar-8a7148168/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajinkyataranekar@gmail.com)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40AjinkyaTaranekr)](https://twitter.com/AjinkyaTaranekr)
+
 ```javascript
 const AjinkyaTaranekar = {
     pronouns: "He" | "Him",
@@ -16,7 +22,7 @@ const AjinkyaTaranekar = {
 };
 ```
 
-### I code for FUN in any language including :computer:
+### I code for FUN :computer:
 
 <br>
 <table>
