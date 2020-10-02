@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ajinkyataranekar@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40AjinkyaTaranekr)](https://twitter.com/AjinkyaTaranekr)
 [![Generic badge](https://img.shields.io/badge/Resume%3F-Here-<blue>.svg)](https://drive.google.com/file/d/1lvsVyaDhyvMAjG5EKAizhrJBLDsXZypC/view?usp=sharing)
-
+<img src="https://komarev.com/ghpvc/?username=AjinkyaTaranekar" alt="AjinkyaTaranekar" />
 ```javascript
 const AjinkyaTaranekar = {
     pronouns: "He" | "Him",
@@ -104,7 +104,6 @@ const AjinkyaTaranekar = {
 </tbody>
 </table>
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AjinkyaTaranekar" alt="AjinkyaTaranekar" /> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AjinkyaTaranekar&theme=tokyonight&show_icons=true" />
 
