@@ -14,12 +14,13 @@ const AjinkyaTaranekar = {
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Explorer", "Food"],
     technologies: {
         mobileApp: ["Android App"],
-        frontEnd: ["React-Native", "Flutter", "Ionic framework"],
-        backEnd: ["node", "express"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Dialog Flow", "open-cv", "GCP"]
+        frontEnd: ["React-Native", "Flutter", "Ionic framework", "Angular8"],
+        backEnd: ["NodeJS", "Express", "Flask"],
+        databases: ["MongoDB", "MySql", "sqlite", "Firestore"],
+        misc: ["Firebase", "Dialog Flow", "open-cv", "GCP", "ElasticSearch", "Logstash"]
     },
-    currentProject: "I am working on hand gesture recoginition to control mouse",
+    currentProject: "I am working on Article Finding using Snippets",
+    currentInternship: "I am working at Niograph",
 };
 ```
 
