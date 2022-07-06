@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h1>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ajinkya Taranekar!</h1>
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AjinkyaTaranekar)
