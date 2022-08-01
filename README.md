@@ -19,8 +19,7 @@ const AjinkyaTaranekar = {
         databases: ["MongoDB", "MySql", "sqlite", "Firestore"],
         misc: ["Firebase", "Dialog Flow", "open-cv", "GCP", "ElasticSearch", "Logstash"]
     },
-    currentProject: "I am working on Article Finding using Snippets",
-    currentInternship: "I am working at Niograph",
+    currentInternship: "I am working at Nuclei",
 };
 ```
 
