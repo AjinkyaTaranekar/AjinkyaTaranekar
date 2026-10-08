@@ -1,178 +1,127 @@
-<h1 align="center">नमस्ते (Namaste) 🙏🏻, I'm Ajinkya Taranekar!</h1>
+<a href="https://ajinkyataranekar.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img alt="Ajinkya Taranekar, engineering software that's reliable" src="assets/banner-light.png" width="100%">
+  </picture>
+</a>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Polyglot+Software+Engineer;Full+Stack+%7C+GenAI+%7C+SRE;Svelte+%7C+SpringBoot+%7C+Go+%7C+Python;MSc+Student+@+Trinity+College+Dublin;Karma+Yogi+%7C+Impact+over+Rewards&center=true&width=600&height=50">
+  <a href="https://ajinkyataranekar.github.io"><img src="https://img.shields.io/badge/Portfolio-0b0c0e?style=for-the-badge&logo=googlechrome&logoColor=34d399" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ajinkya-taranekar"><img src="https://img.shields.io/badge/LinkedIn-0b0c0e?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzM0ZDM5OSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM0VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
+  <a href="mailto:ajinkyataranekar26@gmail.com"><img src="https://img.shields.io/badge/Email-0b0c0e?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1J7--UOUDZx3nWBeGPJwDFLz0gFkdeCGd/view"><img src="https://img.shields.io/badge/Résumé-0b0c0e?style=for-the-badge&logo=googledrive&logoColor=34d399" alt="Résumé"></a>
+  <a href="https://twitter.com/ajinkyataranekr"><img src="https://img.shields.io/badge/X-0b0c0e?style=for-the-badge&logo=x&logoColor=34d399" alt="X"></a>
 </p>
 
----
+### नमस्ते 🙏🏻 I'm Ajinkya
 
-### 👨‍💻 About Me
+I'm a software & site reliability engineer in Dublin 🇮🇪. Most recently I was an **SRE Intern at Apple**; before that I spent 3+ years at **Nuclei** building digital-banking platforms in Go, Java and Svelte, and being on call for them. I hold an **MSc in Computer Science with a 1:1 Distinction** from Trinity College Dublin, where my dissertation taught small on-device language models to follow a written constitution.
 
-I'm a **Polyglot Software Engineer** with **3+ years** of experience architecting scalable, data-intensive applications in fast-paced startup environments. Currently pursuing **MSc in Computer Science** at **Trinity College Dublin** 🇮🇪, specializing in Future Networked Systems.
+- 🔭 I care about reliability and observability, distributed backends, and making GenAI trustworthy
+- 🌱 Open to SRE, backend, platform and GenAI roles
+- 📫 Easiest way to reach me: [ajinkyataranekar26@gmail.com](mailto:ajinkyataranekar26@gmail.com)
 
-🚀 **What I Do:**
-- Build enterprise-grade fintech solutions with **GenAI integration**
-- Architect **microservices** and **cloud-native applications**
-- Drive innovation: Reduced latencies by **90%**, onboarding times from **weeks → minutes**
-- Lead and mentor teams to achieve **75% faster development cycles**
-
-🏆 **Highlights:**
-- Managed **1,400+ P0 alerts** with **91.7% resolution rate** as SRE
-- Built VoiceBot SDKs with **Go + gRPC**, cutting agent onboarding to **5 minutes**
-- Designed search engines reducing retrieval latency from **1s → 150ms**
-- **Gold Medalist** in Computer Science (Rank 1st, CGPA: 9.04/10.0)
-
-💡 **Philosophy:** *Karma Yogi* - Valuing culture, knowledge, and impact more than rewards.
-
----
-
-### 🛠️ Tech Stack
+### 🧭 Selected work
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/AjinkyaTaranekar/trustworthy-personalized-ai"><img src="https://ajinkyataranekar.github.io/assets/projects/trustworthy-ai.webp" alt="Constitutional distillation for trustworthy AI"></a>
+      <br>
+      <b><a href="https://github.com/AjinkyaTaranekar/trustworthy-personalized-ai">Constitutional Distillation for Trustworthy AI</a></b>
+      <br><sub>MSc dissertation · Trinity College Dublin</sub>
+      <p>Can a 0.6B model that runs on your phone be taught a written 25-principle constitution? I trained the same model three ways and measured what each one gains and what it costs.</p>
+      <code>Qwen3</code> <code>LoRA</code> <code>LLM-as-Judge</code> · <a href="https://github.com/AjinkyaTaranekar/trustworthy-personalized-ai/blob/main/Constitutional_AI_in_SLM.pdf">Read the paper</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AjinkyaTaranekar/hackeurope-2026"><img src="https://ajinkyataranekar.github.io/assets/projects/atlas.webp" alt="Atlas ML training observatory"></a>
+      <br>
+      <b><a href="https://github.com/AjinkyaTaranekar/hackeurope-2026">Atlas: ML Training Observatory</a></b>
+      <br><sub>🏆 Best Use of Crusoe API · HackEurope 2026</sub>
+      <p>Watches PyTorch training runs live, flags 30+ kinds of training problems, and an AI agent on Crusoe Cloud explains what's going wrong and how to fix it.</p>
+      <code>PyTorch</code> <code>FastAPI</code> <code>Next.js</code> · <a href="https://www.youtube.com/watch?v=lytHFWg5m-w">Demo video</a> · <a href="https://devpost.com/software/atlas-3z6s2y">Devpost</a>
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/Response-To-City-Disaster/beacon-docs"><img src="https://ajinkyataranekar.github.io/assets/projects/beacon.webp" alt="Beacon emergency response platform"></a>
+      <br>
+      <b><a href="https://github.com/Response-To-City-Disaster/beacon-docs">Beacon: City-Scale Emergency Response</a></b>
+      <br><sub>Team project · 12 repositories</sub>
+      <p>Coordinates a city emergency end to end, from a citizen's report to dispatch, evacuation routes and an audit trail. Go microservices on GKE with Pub/Sub, Airflow and ClickHouse.</p>
+      <code>Go</code> <code>Kubernetes</code> <code>ClickHouse</code>
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=moleculer&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black" />
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>GenAI & ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/Milvus-00BFFF?style=flat&logo=milvus&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat&logo=ai&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Observability</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/AjinkyaTaranekar/Lumino"><img src="https://ajinkyataranekar.github.io/assets/projects/lumino.webp" alt="Lumino explainable job matching"></a>
+      <br>
+      <b><a href="https://github.com/AjinkyaTaranekar/Lumino">Lumino: Explainable Job Matching</a></b>
+      <br><sub>Trinity College Dublin · CS7IS5</sub>
+      <p>Turns résumés and job posts into knowledge graphs, then scores matches with plain graph traversal, so every recommendation can show exactly why it matched.</p>
+      <code>Neo4j</code> <code>FastAPI</code> <code>React</code>
     </td>
   </tr>
 </table>
 
----
+**More:** [AI Toolkit](https://github.com/AjinkyaTaranekar/ai_toolkit), a PostgreSQL extension in C++ for natural-language querying · [Anti-AI CAPTCHA](https://github.com/AjinkyaTaranekar/CS7NS1-Anti-AI-CAPTCHA), built to resist OCR, CNN and LLM solvers · [Convo AI](https://www.gonuclei.com/convo-ai), VoiceBot agents for digital banking · [all projects →](https://ajinkyataranekar.github.io/#projects)
 
-### 🎯 Key Achievements
+### 📈 Impact, in numbers
 
-```
-🏅 Seksaria Gold Medal - Rank 1st in Computer Science (CGPA: 9.04/10.0)
-🏆 Best in Fintech - HackItOut for FinnEasy
-🥉 2nd Runner-Up - TVS Credit EPIC Season 2 for M.I.T.R.A
-```
+<table>
+  <tr>
+    <td align="center"><b>1,400+</b><br><sub>P0 alerts handled</sub></td>
+    <td align="center"><b>91.7%</b><br><sub>resolution rate</sub></td>
+    <td align="center"><b>2.8 min</b><br><sub>avg. time to ack</sub></td>
+    <td align="center"><b>1s → 150ms</b><br><sub>search latency</sub></td>
+    <td align="center"><b>100K+</b><br><sub>daily transactions</sub></td>
+  </tr>
+</table>
 
-**Professional Impact:**
-- 💼 Onboarded **300+ products** across **15 categories** in multi-tenant CMS
-- ⚡ Reduced report generation from **hours → 30 seconds** with ClickHouse
-- 🔧 **91.7% P0 alert resolution** with avg acknowledgment of **2.8 minutes**
-- 📊 Built analytics for **100K+ daily active users** with GDPR compliance
-- 🚀 **90% performance boost** in Flights & Hotels through micro-frontends
-- 👨‍🏫 Mentored **6+ interns** in modern Agile and development practices
+### 💼 Experience
 
----
+| Role | Company | When |
+| --- | --- | --- |
+| Site Reliability Engineer Intern | Apple · Dublin | Jun – Sep 2026 |
+| Software Development Engineer 2 | Nuclei · Bengaluru | 2024 – 2025 |
+| Full-Stack Developer | Nuclei · Bengaluru | 2022 – 2024 |
+| Full-Stack Developer Intern | Nuclei · Bengaluru | 2022 |
+| Flutter Developer Intern | Multipl · Bengaluru | 2021 |
+| Technology Analyst (Trainee) | Niograph · Indore | 2020 – 2021 |
 
-### 🚀 Featured Projects
+### 🛠️ Toolbox
 
-#### 🤖 [Convo AI - VoiceBot Agent Management System](https://www.gonuclei.com/convo-ai)
-Go + gRPC-based GenAI system for digital banking | **5-minute agent onboarding**
-> Tech: GoLang, gRPC, Milvus, Azure AI, Kubernetes
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cjava%2Cpy%2Cts%2Csvelte%2Cspring%2Cfastapi%2Ckafka%2Ckubernetes%2Cdocker%2Cgcp%2Cazure%2Cmysql%2Cpostgres%2Credis%2Celasticsearch%2Cgrafana%2Cgithubactions%2Cpytorch%2Cnextjs%2Cflutter%2Clinux&theme=dark&perline=11">
+  <img alt="Go, Java, Python, TypeScript, Svelte, Spring, FastAPI, Kafka, Kubernetes, Docker, GCP, Azure, MySQL, PostgreSQL, Redis, Elasticsearch, Grafana, GitHub Actions, PyTorch, Next.js, Flutter, Linux" src="https://skillicons.dev/icons?i=go%2Cjava%2Cpy%2Cts%2Csvelte%2Cspring%2Cfastapi%2Ckafka%2Ckubernetes%2Cdocker%2Cgcp%2Cazure%2Cmysql%2Cpostgres%2Credis%2Celasticsearch%2Cgrafana%2Cgithubactions%2Cpytorch%2Cnextjs%2Cflutter%2Clinux&theme=light&perline=11">
+</picture>
 
-#### 🔍 In-House Search Engine
-Hybrid semantic vector + fuzzy search | **1s → 150ms latency**
-> Tech: Python, Milvus, Elasticsearch, Vector Search
+Also: gRPC · ClickHouse · Milvus · LangChain · RAG · MCP · OpenSearch · Apache NiFi · Superset
 
-#### 🛒 [Dailify](https://drive.google.com/file/d/1cnCDYT8Pd0qG0KxQn8Qnd84jrKOmDNrw/view)
-Curbside pickup service for Indian grocery stores | **85% query time reduction**
-> Tech: SpringBoot, Flutter, MySQL, Elasticsearch, Azure
+### 🏅 Recognition
 
-#### 📱 [Department Information System](https://drive.google.com/file/d/11D9nvsV8SvRstwdzjxWHaxsh0iwjlI86/view)
-30+ screen mobile app for CS department | **60% efficiency improvement**
-> Tech: SpringBoot, Flutter, MySQL, Angular
+- 🎓 **1:1 Distinction**, MSc Computer Science, Trinity College Dublin (2026)
+- 🏆 **Best Use of Crusoe API**, HackEurope (2026)
+- 🥇 **Seksaria Gold Medal**, rank 1 in Computer Science, SGSITS (2022)
+- 🏆 **Best in Fintech**, HackItOut (2021)
+- 🥉 **2nd Runner-Up**, TVS Credit EPIC Season 2 (2021)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaTaranekar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaTaranekar&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+### 📊 On GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaTaranekar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AjinkyaTaranekar&hide_border=true&disable_animations=true&background=0b0c0e&ring=34d399&fire=34d399&currStreakNum=ededef&sideNums=ededef&currStreakLabel=34d399&sideLabels=a0a1a8&dates=828390&stroke=27272a">
+    <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=AjinkyaTaranekar&hide_border=true&disable_animations=true&background=f6f6f2&ring=047857&fire=047857&currStreakNum=111110&sideNums=111110&currStreakLabel=047857&sideLabels=52524c&dates=6c6c65&stroke=d4d4cf">
+  </picture>
 </p>
 
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://ajinkyataranekar.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ajinkya-taranekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AjinkyaTaranekar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:ajinkyataranekar26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/AjinkyaTaranekr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1J7--UOUDZx3nWBeGPJwDFLz0gFkdeCGd/view"><img src="https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AjinkyaTaranekar/AjinkyaTaranekar/output/snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AjinkyaTaranekar/AjinkyaTaranekar/output/snake-light.svg" width="100%">
+</picture>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjinkyaTaranekar&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <i>“I believe in being a Karma Yogi, valuing culture, knowledge, and impact more than rewards.”</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=AjinkyaTaranekar&style=flat-square&color=34d399&label=profile+views" alt="Profile views">
 </p>
-
-<p align="center">
-  <i>💭 "Be a Karma Yogi - Value culture, knowledge, and impact more than rewards."</i>
-</p>
-
----
-
-⭐️ From [AjinkyaTaranekar](https://github.com/AjinkyaTaranekar) | Open to opportunities in Dublin 🇮🇪

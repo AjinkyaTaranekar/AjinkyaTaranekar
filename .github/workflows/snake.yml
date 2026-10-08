@@ -1,0 +1,35 @@
+# Draws the "snake eating my contribution graph" animation shown in the README
+# and publishes it to the `output` branch. Runs daily, on push, or on demand.
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#34d399&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/snake-light.svg?palette=github-light&color_snake=#047857
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
